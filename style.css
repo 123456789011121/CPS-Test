@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+
+#clickButton{
+    height: 75px;
+    width: 100px;
+}
+
+#clickCounter, #clickCounterText{
+    display: none;
+}
